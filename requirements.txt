@@ -1,0 +1,9 @@
+opencv-python
+numpy
+matplotlib
+scipy
+PIL
+pytesseract
+urllib
+re
+imutils
