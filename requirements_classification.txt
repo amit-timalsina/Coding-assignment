@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+fasttext==0.9.0
+tensorflow
